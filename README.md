@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MattiaToscanelli
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer engineering at SUPSI
+- 👀 I’m a software engineer
 - 📫 How to reach me at mattia.toscanelli0325@gmail.com
 
 <!---
